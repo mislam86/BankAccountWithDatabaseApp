@@ -1,0 +1,21 @@
+D:\SEIP Project (.NET)\BankAccountWithDatabaseApp\BankAccountWithDatabaseApp\bin\Debug\BankAccountWithDatabaseApp.exe.config
+D:\SEIP Project (.NET)\BankAccountWithDatabaseApp\BankAccountWithDatabaseApp\bin\Debug\BankAccountWithDatabaseApp.exe
+D:\SEIP Project (.NET)\BankAccountWithDatabaseApp\BankAccountWithDatabaseApp\bin\Debug\BankAccountWithDatabaseApp.pdb
+D:\SEIP Project (.NET)\BankAccountWithDatabaseApp\BankAccountWithDatabaseApp\obj\Debug\BankAccountWithDatabaseApp.csprojResolveAssemblyReference.cache
+D:\SEIP Project (.NET)\BankAccountWithDatabaseApp\BankAccountWithDatabaseApp\obj\Debug\BankAccountWithDatabaseApp.CustomerAccountInfoUI.resources
+D:\SEIP Project (.NET)\BankAccountWithDatabaseApp\BankAccountWithDatabaseApp\obj\Debug\BankAccountWithDatabaseApp.Properties.Resources.resources
+D:\SEIP Project (.NET)\BankAccountWithDatabaseApp\BankAccountWithDatabaseApp\obj\Debug\BankAccountWithDatabaseApp.csproj.GenerateResource.Cache
+D:\SEIP Project (.NET)\BankAccountWithDatabaseApp\BankAccountWithDatabaseApp\obj\Debug\BankAccountWithDatabaseApp.exe
+D:\SEIP Project (.NET)\BankAccountWithDatabaseApp\BankAccountWithDatabaseApp\obj\Debug\BankAccountWithDatabaseApp.pdb
+D:\SEIP Project (.NET)\Batch 03\20.05.2015\BankAccountWithDatabaseApp\BankAccountWithDatabaseApp\bin\Debug\BankAccountWithDatabaseApp.exe.config
+D:\SEIP Project (.NET)\Batch 03\20.05.2015\BankAccountWithDatabaseApp\BankAccountWithDatabaseApp\obj\Debug\BankAccountWithDatabaseApp.exe
+D:\SEIP Project (.NET)\Batch 03\20.05.2015\BankAccountWithDatabaseApp\BankAccountWithDatabaseApp\obj\Debug\BankAccountWithDatabaseApp.pdb
+D:\SEIP Project (.NET)\Batch 03\20.05.2015\BankAccountWithDatabaseApp\BankAccountWithDatabaseApp\bin\Debug\BankAccountWithDatabaseApp.exe
+D:\SEIP Project (.NET)\Batch 03\20.05.2015\BankAccountWithDatabaseApp\BankAccountWithDatabaseApp\bin\Debug\BankAccountWithDatabaseApp.pdb
+D:\SEIP Project (.NET)\Batch 03\20.05.2015\BankAccountWithDatabaseApp\BankAccountWithDatabaseApp\obj\Debug\BankAccountWithDatabaseApp.csprojResolveAssemblyReference.cache
+D:\SEIP Project (.NET)\Batch 03\20.05.2015\BankAccountWithDatabaseApp\BankAccountWithDatabaseApp\obj\Debug\BankAccountWithDatabaseApp.Properties.Resources.resources
+D:\SEIP Project (.NET)\Batch 03\20.05.2015\BankAccountWithDatabaseApp\BankAccountWithDatabaseApp\obj\Debug\BankAccountWithDatabaseApp.csproj.GenerateResource.Cache
+D:\SEIP Project (.NET)\Batch 03\20.05.2015\BankAccountWithDatabaseApp\BankAccountWithDatabaseApp\obj\Debug\BankAccountWithDatabaseApp.UI.CustomerAccountInfoUI.resources
+C:\Users\Web App Develop .Net\Desktop\20.05.2015\BankAccountWithDatabaseApp\BankAccountWithDatabaseApp\bin\Debug\BankAccountWithDatabaseApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\20.05.2015\BankAccountWithDatabaseApp\BankAccountWithDatabaseApp\obj\Debug\BankAccountWithDatabaseApp.exe
+C:\Users\Web App Develop .Net\Desktop\20.05.2015\BankAccountWithDatabaseApp\BankAccountWithDatabaseApp\obj\Debug\BankAccountWithDatabaseApp.pdb
